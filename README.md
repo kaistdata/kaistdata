@@ -4,30 +4,35 @@ This collection features open-source repositories from the ✨Data Mining Lab✨
 
 ## Contents
 
-- [Hypergraph Mining](#hypergraph_mining)
-- [Hypergraph Learning](#hypergraph_learning)
-- [Tensor Analysis](#tensor)
-- [Graph Stream Processing](#stream)
-- [Recommender Systems](#recsys)
+- [Hypergraph Mining ⛏️](#hypergraph_mining)
+- [Hypergraph Learning 🤖](#hypergraph_learning)
+- [Tensor Analysis 🎲](#tensor)
+- [Real-time Graph Processing ⏱️](#stream)
+- [Recommender Systems 🛒](#recsys)
+- [Cybersecurity 🕵](#security)
 <a name="hypergraph_mining" />
 
-## Hypergraph Mining
+## Hypergraph Mining ⛏️
 
 <a name="hypergraph_learning" />
 
-## Hypergraph Learning
+## Hypergraph Learning 🤖
 
 <a name="tensor" />
 
-## Tensor Analysis
+## Tensor Analysis 🎲
 
 <a name="stream" />
 
-## Graph Stream Processing
+## Real-time Graph Processing ⏱️
 
 <a name="recsys" />
 
-## Recommender Systems
+## Recommender Systems 🛒
+
+<a name="security" />
+
+## Cybersecutity 🕵
 
 <!--
 **kaistdata/kaistdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
