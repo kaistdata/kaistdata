@@ -6,7 +6,9 @@ This is a collection of open-source repositories developed by the Data Mining La
 
 - [Hypergraph Mining](#hypergraph_mining)
 - [Hypergraph Learning](#hypergraph_learning)
-
+- [Tensor Analysis](#tensor)
+- [Graph Stream Processing](#stream)
+- [Recommender Systems](#recsys)
 <a name="hypergraph_mining" />
 
 ## Hypergraph Mining
@@ -14,6 +16,18 @@ This is a collection of open-source repositories developed by the Data Mining La
 <a name="hypergraph_learning" />
 
 ## Hypergraph Learning
+
+<a name="tensor" />
+
+## Tensor Analysis
+
+<a name="stream" />
+
+## Graph Stream Processing
+
+<a name="recsys" />
+
+## Recommender Systems
 
 <!--
 **kaistdata/kaistdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
