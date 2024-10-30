@@ -1,6 +1,6 @@
 ## KAIST Data Mining Lab 🌱
 
-This collection features open-source repositories developed by the ✨Data Mining Lab✨ in the Kim Jaechul Graduate School of AI at KAIST.
+This collection features open-source repositories from the ✨Data Mining Lab✨ at the Kim Jaechul Graduate School of AI, KAIST.
 
 ## Contents
 
